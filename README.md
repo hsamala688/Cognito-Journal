@@ -31,3 +31,15 @@ Designed to help clinicians and caregivers measure cognitive decline in older pa
 ### 3. Caregiver / Family Member
 
 - Wants ongoing insight into cognitive changes without overwhelming detail
+
+### 4. Core Features
+Here’s a super concise bullet-point summary for your README:
+
+- Accessible text and voice-to-text journaling for older adults.
+- NLP engine analyzes linguistic complexity, sentiment, and memory markers.
+- Baseline cognitive profile for each patient to detect future decline.
+- Long-term trend tracking and journaling-frequency monitoring.
+- Clinician dashboard with detailed cognitive insights.
+- Caregiver portal with simplified mood and engagement data.
+- Automated alerts for detected decline or negative trends.
+- Secure RBAC authentication and HIPAA-compliant backend.
