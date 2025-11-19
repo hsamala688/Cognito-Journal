@@ -5,7 +5,7 @@ Designed to help clinicians and caregivers measure cognitive decline in older pa
 
 ### Project Name
 
-Cognito Journal (Placeholder)
+Cognito Journal
 
 ### Description
 
