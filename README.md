@@ -33,7 +33,6 @@ Designed to help clinicians and caregivers measure cognitive decline in older pa
 - Wants ongoing insight into cognitive changes without overwhelming detail
 
 ### 4. Core Features
-Here’s a super concise bullet-point summary for your README:
 
 - Accessible text and voice-to-text journaling for older adults.
 - NLP engine analyzes linguistic complexity, sentiment, and memory markers.
